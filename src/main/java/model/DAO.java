@@ -10,9 +10,9 @@ public class DAO {
 	// Módulo de conexão
 	// Parâmetros de conexão
 	private String driver = "com.mysql.cj.jdbc.Driver";
-	private String url = "jdbc:mysql://127.0.0.1:3306/dbAgendaContatos?useTimezone=true&serverTimezone=UTC";
-	private String user = "root";
-	private String password = "@mySqlBanco1234";
+	private String url = "jdbc:mysql://'enderecoDeIpDoUser'/'nomeDoSeuBancoDeDados'?useTimezone=true&serverTimezone=UTC";
+	private String user = 'nomeDoSeuUsuarioDoBancoDeDados';
+	private String password = 'senhaDoSeuBancoDeDados';
 
 	// Método de conexão
 	private Connection conectar() {
