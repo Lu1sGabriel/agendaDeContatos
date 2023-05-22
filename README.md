@@ -14,6 +14,7 @@
   <ul>
     <li>Java</li>
     <li>JavaWeb (Servlets)</li>
+    <li>JavaScript</li>
     <li>MySQL</li>
     <li>JDBC</li>
     <li>iText PDF</li>
