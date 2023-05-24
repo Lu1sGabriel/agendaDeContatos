@@ -1,5 +1,6 @@
   <h1>Agenda de Contatos</h1>
-  <p>Este é um projeto de agenda de contatos utilizando JavaWeb e Banco de Dados.</p>
+  <p>Olá, seja muito bem vindo ao meu projeto👋🏼</p>
+  <p>Este é um projeto de agenda de contatos utilizando JavaWeb e o Banco de Dados 'MySql'.</p>
   
   <h2> 🗂️ Índice </h2>
     <li><a href="#funcionalidades">Funcionalidades</a></li>
